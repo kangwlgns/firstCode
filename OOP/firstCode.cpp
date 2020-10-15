@@ -1,6 +1,10 @@
 #include <iostream>
 #include <algorithm>
 
-int main(void) {
+using namespace std;
 
+int main(void) {
+	int x;
+	cin >> x;
+	cout << x << "\n";
 }
